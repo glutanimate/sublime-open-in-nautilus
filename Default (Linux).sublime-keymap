@@ -1,0 +1,5 @@
+[
+    { 
+      "keys": ["alt+shift+f"], "command": "open_folder_in_nautilus"
+    }
+]
